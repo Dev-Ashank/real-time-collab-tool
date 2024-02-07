@@ -1,0 +1,4 @@
+{"level":"error","message":"Error in User Registration: MongoServerError: E11000 duplicate key error collection: Collab_Tool_Backend.users index: userName_1 dup key: { userName: \"Ashank\" }","timestamp":"2024-01-20 22:00:03"}
+{"0":"Invalid value","level":"error","message":"Validation errors:","timestamp":"2024-01-20 22:01:53"}
+{"0":"Invalid value","level":"error","message":"Validation errors:","timestamp":"2024-01-20 22:02:09"}
+{"level":"error","message":"Error in User Registration: MongoServerError: E11000 duplicate key error collection: Collab_Tool_Backend.users index: userName_1 dup key: { userName: \"Ashank\" }","timestamp":"2024-01-20 22:02:19"}
