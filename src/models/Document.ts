@@ -5,6 +5,7 @@ export interface IDocument extends Document {
   content: string;
   owner: mongoose.Schema.Types.ObjectId;
   collaborators: mongoose.Schema.Types.ObjectId[];
+  lastUpdated: Date;
 }
 
 const DocumentSchema: Schema = new Schema({
@@ -12,6 +13,7 @@ const DocumentSchema: Schema = new Schema({
   content: { type: String, required: true },
   owner: { type: mongoose.Schema.Types.ObjectId, ref: "User", required: true },
   collaborators: [{ type: mongoose.Schema.Types.ObjectId, ref: "User" }],
+  lastUpdated: { type: Date, default: Date.now },
 });
 
 export default mongoose.model<IDocument>("Document", DocumentSchema);

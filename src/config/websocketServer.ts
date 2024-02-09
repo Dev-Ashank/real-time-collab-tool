@@ -1,60 +1,166 @@
-// Import WebSocket and HTTP server types
-import { Server as WebSocketServer } from "ws";
+import { Server as WebSocketServer, WebSocket } from "ws";
 import { Server as HttpServer } from "http";
 import logger from "./logger";
-import { saveChatMessage } from "../services/messageService";
-import mongoose from "mongoose";
+import Document from "../models/Document";
+import { broadcastOperation } from "../engines/otEngine";
+import {
+  applyOperationToDocument,
+  constructOperation,
+} from "../engines/constructOperations";
 
-// Function to initialize WebSocket server
+export const documentClients = new Map<string, Set<WebSocket>>();
+
+const addClientToDocument = (documentId: string, client: WebSocket) => {
+  if (!documentClients.has(documentId)) {
+    documentClients.set(documentId, new Set());
+  }
+  documentClients.get(documentId)?.add(client);
+};
+// Maintain a set to store active WebSocket clients
+const activeClients = new Set<WebSocket>();
+
+// Function to add a client to the active clients set
+const addActiveClient = (ws: WebSocket) => {
+  activeClients.add(ws);
+  logger.info(`Client connected. Total active clients: ${activeClients.size}`);
+};
+
+// Function to remove a client from the active clients set
+const removeActiveClient = (ws: WebSocket) => {
+  activeClients.delete(ws);
+  logger.info(
+    `Client disconnected. Total active clients: ${activeClients.size}`
+  );
+};
+
+// Function to list all active clients
+const listActiveClients = () => {
+  return Array.from(activeClients);
+};
 export const initializeWebSocketServer = (server: HttpServer) => {
   logger.info("WebSocket server has been initialized.");
-  // Create a WebSocket server attached to an existing HTTP server
   const wss = new WebSocketServer({ server });
 
   wss.on("connection", (ws) => {
     logger.info("A new client connected.");
+    addActiveClient(ws);
+    ws.send(
+      JSON.stringify({
+        type: "welcome",
+        message: "Welcome to the document editing service!",
+      })
+    );
 
-    // Send a welcome message to the newly connected client
-    ws.send("Welcome to the chat!");
-
-    // Broadcast incoming messages to all clients except the sender
+    let loadedDocumentId: any = null;
+    let loadedDocumentContent: any = null;
+    let modifiedDocumentContent: any = null;
+    // First ws.on event to load the document
     ws.on("message", async (clientMessage) => {
       try {
-        // Parse the incoming message as JSON
         const parsedMessage = JSON.parse(clientMessage.toString());
+        const documentId = parsedMessage.documentId;
 
-        // Extract senderId, receiverId, and message from the parsed message
-        const { senderId, receiverId, message } = parsedMessage;
+        // Check if the document has already been loaded
+        if (loadedDocumentContent !== null) {
+          // If the document is already loaded, exit the function
+          return;
+        }
 
-        // Save the chat message to the database
-        const chatMessage = await saveChatMessage(
-          message,
-          senderId,
-          receiverId
+        const document = await Document.findById(documentId);
+
+        if (!document) {
+          ws.send(
+            JSON.stringify({ type: "error", message: "Document not found" })
+          );
+          return;
+        }
+
+        // Store the loaded document ID and content
+        loadedDocumentId = documentId;
+        loadedDocumentContent = document.content;
+        modifiedDocumentContent = loadedDocumentContent;
+        // Send the document content to the client
+        ws.send(
+          JSON.stringify({
+            type: "document",
+            documentId: document.id,
+            content: document.content,
+            lastUpdated: document.lastUpdated,
+          })
         );
 
-        // Broadcast the saved chat message to all clients
-        wss.clients.forEach((client) => {
-          if (client !== ws && client.readyState === ws.OPEN) {
-            client.send(JSON.stringify(chatMessage));
-          }
-        });
+        // Add this client to the list of clients that are editing this document
+        addClientToDocument(documentId, ws);
       } catch (error) {
-        logger.error(`Error processing chat message: ${error}`);
-
-        // Send appropriate error status code to the client
-        if (error instanceof mongoose.Error.ValidationError) {
-          // If the error is due to validation issues
-          ws.send(JSON.stringify({ error: "Invalid request data" }));
-        } else {
-          // For other errors, send a generic error message
-          ws.send(JSON.stringify({ error: "Internal Server Error" }));
-        }
+        logger.error(
+          `Error processing message: ${
+            error instanceof Error ? error.message : "Unknown error"
+          }`
+        );
+        ws.send(
+          JSON.stringify({
+            type: "error",
+            message: "Error processing your request",
+          })
+        );
       }
     });
 
-    // Log when a client disconnects
+    // Second ws.on event to handle document editing
+    ws.on("message", async (clientMessage) => {
+      try {
+        // Check if the document is loaded
+        if (loadedDocumentContent === null) {
+          // If the document is not loaded, exit the function
+          return;
+        }
+
+        const parsedMessage = JSON.parse(clientMessage.toString());
+        const operation = JSON.parse(clientMessage.toString());
+
+        constructOperation(operation);
+
+        // Apply the received operation to the document state
+
+        modifiedDocumentContent = applyOperationToDocument(
+          operation,
+          modifiedDocumentContent
+        );
+        console.log(modifiedDocumentContent);
+        await Document.updateOne(
+          { _id: loadedDocumentId },
+          { content: modifiedDocumentContent }
+        );
+        // Broadcast the transformed operation to all clients
+        broadcastOperation(
+          modifiedDocumentContent,
+          loadedDocumentId,
+          WebSocket
+        );
+      } catch (error) {
+        logger.error(
+          `Error processing message: ${
+            error instanceof Error ? error.message : "Unknown error"
+          }`
+        );
+        ws.send(
+          JSON.stringify({
+            type: "error",
+            message: "Error processing your request",
+          })
+        );
+      }
+    });
+
     ws.on("close", () => {
+      // Remove client from any document editing sessions
+      documentClients.forEach((clients, documentId) => {
+        clients.delete(ws);
+        if (clients.size === 0) {
+          documentClients.delete(documentId);
+        }
+      });
+      removeActiveClient(ws);
       logger.info("Client has disconnected.");
     });
   });

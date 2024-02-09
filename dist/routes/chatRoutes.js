@@ -5,7 +5,9 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const chatController_1 = require("../controllers/chatController");
+const loginMiddleware_1 = require("../middlewares/loginMiddleware");
 const router = express_1.default.Router();
+router.use(loginMiddleware_1.loginMiddleware);
 router.post("/", chatController_1.createChatMessage);
 router.get("/", chatController_1.getAllMessages);
 router.get("/:id", chatController_1.getMessageById);

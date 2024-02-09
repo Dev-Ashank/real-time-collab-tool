@@ -8,6 +8,7 @@ const logger_1 = __importDefault(require("./config/logger"));
 const database_1 = __importDefault(require("./config/database"));
 const userRoutes_1 = __importDefault(require("./routes/userRoutes"));
 const chatRoutes_1 = __importDefault(require("./routes/chatRoutes"));
+const documentRoutes_1 = __importDefault(require("./routes/documentRoutes"));
 const http_1 = require("http");
 const websocketServer_1 = require("./config/websocketServer");
 const dotenv_1 = __importDefault(require("dotenv"));
@@ -32,6 +33,7 @@ app.get("/", (req, res) => {
 });
 app.use("/api/users", userRoutes_1.default);
 app.use("/api/chats", chatRoutes_1.default);
+app.use("/api/documents", documentRoutes_1.default);
 (0, database_1.default)();
 // Use server.listen instead of app.listen
 server.listen(PORT, () => {

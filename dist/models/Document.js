@@ -29,5 +29,6 @@ const DocumentSchema = new mongoose_1.Schema({
     content: { type: String, required: true },
     owner: { type: mongoose_1.default.Schema.Types.ObjectId, ref: "User", required: true },
     collaborators: [{ type: mongoose_1.default.Schema.Types.ObjectId, ref: "User" }],
+    lastUpdated: { type: Date, default: Date.now },
 });
 exports.default = mongoose_1.default.model("Document", DocumentSchema);

@@ -12,14 +12,16 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.deleteChatMessage = exports.updateChatMessage = exports.getChatMessageById = exports.getAllChatMessages = exports.saveChatMessage = void 0;
+exports.getChatMessagesByUser = exports.deleteChatMessage = exports.updateChatMessage = exports.getChatMessageById = exports.getAllChatMessages = exports.saveChatMessage = void 0;
 const Chat_1 = __importDefault(require("../models/Chat"));
 const saveChatMessage = (message, senderId, receiverId) => __awaiter(void 0, void 0, void 0, function* () {
     return yield Chat_1.default.create({ message, sender: senderId, receiver: receiverId });
 });
 exports.saveChatMessage = saveChatMessage;
-const getAllChatMessages = () => __awaiter(void 0, void 0, void 0, function* () {
-    return yield Chat_1.default.find().populate("sender receiver");
+const getAllChatMessages = (userId) => __awaiter(void 0, void 0, void 0, function* () {
+    return yield Chat_1.default.find({
+        $or: [{ sender: userId }, { receiver: userId }],
+    }).populate("sender receiver");
 });
 exports.getAllChatMessages = getAllChatMessages;
 const getChatMessageById = (id) => __awaiter(void 0, void 0, void 0, function* () {
@@ -34,3 +36,8 @@ const deleteChatMessage = (id) => __awaiter(void 0, void 0, void 0, function* ()
     return yield Chat_1.default.findByIdAndDelete(id);
 });
 exports.deleteChatMessage = deleteChatMessage;
+const getChatMessagesByUser = (userId, receiverId) => __awaiter(void 0, void 0, void 0, function* () {
+    // Fetch messages where the sender is the current user and the receiver is the specified user
+    return yield Chat_1.default.find({ sender: userId, receiver: receiverId }).populate("sender receiver");
+});
+exports.getChatMessagesByUser = getChatMessagesByUser;

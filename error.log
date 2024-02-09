@@ -16,3 +16,15 @@
 {"level":"error","message":"Error processing chat message: ValidationError: message: Path `message` is required.","timestamp":"2024-02-07 11:39:18"}
 {"level":"error","message":"Error creating chat message: TypeError: Cannot destructure property 'message' of 'req.body' as it is undefined.","timestamp":"2024-02-07 12:21:17"}
 {"level":"error","message":"Error processing chat message: TypeError: res.status is not a function","timestamp":"2024-02-07 12:21:17"}
+{"error":"Document validation failed: owner: Cast to ObjectId failed for value \"Test Owner\" (type string) at path \"owner\" because of \"BSONError\"","level":"error","message":"Error creating document","timestamp":"2024-02-09 14:09:06"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:13"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:34"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:36"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:42"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:43"}
+{"level":"error","message":"Error processing message: Unexpected token 'H', \"Hello\" is not valid JSON","timestamp":"2024-02-09 14:29:49"}
+{"level":"error","message":"Error processing message: Unexpected token 'H', \"Hello\" is not valid JSON","timestamp":"2024-02-09 14:30:11"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:30:32"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:31:06"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"your-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:32:26"}
+{"level":"error","message":"Error processing message: Document validation failed: content: Path `content` is required.","timestamp":"2024-02-09 17:21:52"}

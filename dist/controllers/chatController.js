@@ -60,8 +60,15 @@ const createChatMessage = (req, res) => __awaiter(void 0, void 0, void 0, functi
 });
 exports.createChatMessage = createChatMessage;
 const getAllMessages = (req, res) => __awaiter(void 0, void 0, void 0, function* () {
+    var _a;
     try {
-        const messages = yield chatService.getAllChatMessages();
+        // Extract user ID from request object
+        const userId = (_a = req.user) === null || _a === void 0 ? void 0 : _a.id;
+        if (!userId) {
+            return res.status(401).json({ error: "Unauthorized" });
+        }
+        // Retrieve messages related to the user making the request
+        const messages = yield chatService.getAllChatMessages(userId);
         res.json(messages);
     }
     catch (error) {

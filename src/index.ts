@@ -3,6 +3,7 @@ import logger from "./config/logger";
 import connectDB from "./config/database";
 import userRoutes from "./routes/userRoutes";
 import chatRoutes from "./routes/chatRoutes";
+import documentRoutes from "./routes/documentRoutes";
 import { createServer } from "http";
 import { initializeWebSocketServer } from "./config/websocketServer";
 import dotenv from "dotenv";
@@ -32,6 +33,7 @@ app.get("/", (req, res) => {
 
 app.use("/api/users", userRoutes);
 app.use("/api/chats", chatRoutes);
+app.use("/api/documents", documentRoutes);
 
 connectDB();
 // Use server.listen instead of app.listen

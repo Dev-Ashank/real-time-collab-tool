@@ -164,3 +164,1876 @@
 {"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-07 12:23:11"}
 {"level":"info","message":"server is running on port 3000","timestamp":"2024-02-07 12:23:11"}
 {"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-07 12:23:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:08"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:08"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:13"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:13"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:13"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:15"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:26"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:15:29"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:15:29"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:15:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:16:03"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:16:03"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:16:03"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:16:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:16:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:16:05"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:16:08"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:16:08"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:16:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:23:03"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:23:03"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:23:03"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:24:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:24:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:24:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:24:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:24:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:24:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:25:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:25:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:25:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:33:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:33:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:33:26"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:35:28"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:35:28"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:35:28"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:35:46"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:35:46"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:35:46"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:36:13"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:36:13"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:36:13"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:36:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:36:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:36:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:37:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:37:32"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:37:32"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:37:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:37:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:37:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:37:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:37:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:37:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:38:10"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:38:10"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:38:10"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:38:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:38:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:38:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:38:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:38:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:38:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:42:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:42:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:42:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:46:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:46:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:46:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:46:20"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:46:20"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:46:20"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:46:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:46:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:46:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:48:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:48:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:48:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:48:54"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:48:54"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:48:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:48:58"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:48:58"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:48:58"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:03"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:03"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:03"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:08"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:20"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:20"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:20"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:34"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:34"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:49:46"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:49:46"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:49:46"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:05"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:42"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:42"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:42"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:50:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:50:53"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:50:53"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:04"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:04"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:07"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:07"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:07"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:09"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:09"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:15"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:17"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:17"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:17"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:34"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:34"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:43"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:43"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:43"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:45"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:45"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:45"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:51:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:51:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:51:52"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:53:54"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:53:54"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:53:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:53:58"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:53:58"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:53:58"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:54:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:54:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:54:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:54:28"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:54:28"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:54:28"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:54:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:54:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:54:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:54:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:54:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:54:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:55:00"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:55:00"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:55:00"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:55:03"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:55:03"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:55:03"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:57:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:57:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:57:52"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:58:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:58:09"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:58:09"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:58:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:58:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:58:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:58:21"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:58:21"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:58:21"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:58:29"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:58:29"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:58:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:58:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:58:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:58:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:59:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:59:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:59:31"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 13:59:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 13:59:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 13:59:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:00:22"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:00:22"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:00:22"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:00:30"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:00:30"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:00:30"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:01:50"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:01:50"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:01:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:01:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:01:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:01:53"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:01:57"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:01:57"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:01:57"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:02:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:02:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:02:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:02:51"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:02:51"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:02:51"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:03:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:03:09"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:03:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:03:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:04:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:05:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:08:11"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:08:11"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:08:11"}
+{"error":"Document validation failed: owner: Cast to ObjectId failed for value \"Test Owner\" (type string) at path \"owner\" because of \"BSONError\"","level":"error","message":"Error creating document","timestamp":"2024-02-09 14:09:06"}
+{"level":"info","message":"Document created successfully: 65c5e4d06cbd8a0038aab7bf","timestamp":"2024-02-09 14:09:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:09:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:09:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:09:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:10:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:12:41"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:12:41"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:12:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 14:12:44"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 14:12:49"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:17:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:17:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:17:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:17:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:17:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:17:52"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:17:57"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:17:57"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:17:57"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:18:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:18:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:18:55"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:28:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:28:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:28:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 14:28:29"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:13"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:34"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:36"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:42"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:29:43"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 14:29:48"}
+{"level":"error","message":"Error processing message: Unexpected token 'H', \"Hello\" is not valid JSON","timestamp":"2024-02-09 14:29:49"}
+{"level":"error","message":"Error processing message: Unexpected token 'H', \"Hello\" is not valid JSON","timestamp":"2024-02-09 14:30:11"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:30:32"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"unique-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:31:06"}
+{"level":"error","message":"Error processing message: Cast to ObjectId failed for value \"your-document-id\" (type string) at path \"_id\" for model \"Document\"","timestamp":"2024-02-09 14:32:26"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:43:39"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:43:39"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:43:39"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:44:07"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:44:07"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:44:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:44:10"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:44:10"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:44:10"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:44:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:44:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:44:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:44:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:44:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:44:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:44:58"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:44:58"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:44:58"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:45:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:45:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:45:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:50:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:50:53"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:50:53"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:09"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:09"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:11"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:11"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:15"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:21"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:21"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:21"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:23"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:23"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:23"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:29"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:29"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:39"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:39"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:39"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:55"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:51:59"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:51:59"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:51:59"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:52:00"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:52:00"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:52:00"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:52:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:52:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:52:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:53:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:53:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:53:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:53:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:53:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:53:31"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 14:54:58"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 14:54:58"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 14:54:58"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:08:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:08:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:08:15"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:16:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:17:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:23:50"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:23:50"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:23:51"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:23:51"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:25:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:25:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:25:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:25:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:25:34"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:25:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:25:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:25:34"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:26:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:26:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:03"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:26:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:26:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:26:26"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:26:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:37"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:26:38"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:38"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:26:38"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:26:38"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:27:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:27:07"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:27:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:27:07"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:27:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:27:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:28:00"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:28:00"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:28:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:28:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:00"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:00"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:00"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:00"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:01"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:01"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:01"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:01"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:05"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:05"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:48"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:48"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:49"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:49"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:29:49"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:29:49"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:31:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:31:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:31:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:31:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:31:06"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:31:06"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:31:28"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:31:28"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:31:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:31:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:31:42"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:32:51"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:32:51"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:32:51"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:32:56"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:32:58"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:32:59"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:32:59"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:34:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:34:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:34:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:34:54"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:34:54"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:34:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:35:08"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:35:08"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:35:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:35:34"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:35:34"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:35:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:36:38"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:36:38"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:36:38"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:36:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:36:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:36:52"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:36:58"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:36:58"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:37:01"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:37:01"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:40:34"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:40:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:40:34"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:40:34"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:54"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:55"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:56"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:45:57"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:13"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:21"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:25"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:27"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:28"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:30"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:46:31"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:51:33"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:51:33"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:51:33"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:52:39"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:52:39"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:52:39"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:52:49"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:52:49"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:52:49"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:53:23"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:53:23"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:53:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:54:14"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:54:14"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:54:14"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:56:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:56:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:56:05"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 15:57:09"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 15:57:09"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 15:57:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:57:21"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 15:57:21"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 15:57:25"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 15:57:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:10:17"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:10:17"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:10:17"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:11:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:11:18"}
+{"level":"info","message":"Message received: {\"type\":\"requestDocument\",\"documentId\":\"65c5e4d06cbd8a0038aab7bf\"}","timestamp":"2024-02-09 16:11:18"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":18,\"content\":\"h\"}","timestamp":"2024-02-09 16:11:21"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":19,\"content\":\"e\"}","timestamp":"2024-02-09 16:11:21"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":20,\"content\":\"j\"}","timestamp":"2024-02-09 16:11:21"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":21,\"content\":\"k\"}","timestamp":"2024-02-09 16:11:21"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":22,\"content\":\"n\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":23,\"content\":\"f\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":24,\"content\":\"d\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":25,\"content\":\"u\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":26,\"content\":\"i\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"Message received: {\"type\":\"insert\",\"position\":27,\"content\":\"b\"}","timestamp":"2024-02-09 16:11:22"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:11:50"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:11:50"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:11:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:12:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:12:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:12:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:13:00"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:13:00"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:13:00"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:13:06"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:13:06"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:13:06"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:14:04"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:14:04"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:14:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:14:11"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:14:11"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:14:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:14:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:14:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:14:57"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:14:57"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:14:59"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:14:59"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:14:59"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:14:59"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:15:54"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:15:54"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:15:54"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:16:14"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:16:14"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:17:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:17:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:17:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:17:34"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:17:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:20:45"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:20:45"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:20:45"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:23:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:23:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:23:26"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:23:48"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:23:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:28:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:28:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:28:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:28:44"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:28:44"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:29"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:31"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:32"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:35"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:38"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:38"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:38"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:38"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 16:32:40"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 16:32:40"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:32:40"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:32:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:20"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:20"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:20"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:31"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:42"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:42"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:42"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:33:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:33:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:33:44"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:33:55"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:33:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:34:02"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:34:02"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:34:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:34:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:34:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:34:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:34:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:34:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:34:43"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:34:43"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:34:43"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:34:45"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:34:45"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:34:45"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:34:47"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:34:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:35:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:35:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:35:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:35:07"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:35:07"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:36:11"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:36:11"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:36:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:36:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:36:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:36:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:37:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:37:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:37:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:37:09"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:37:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:37:27"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:37:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:47:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:47:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:47:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:47:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:47:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:47:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:47:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:47:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:47:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:47:27"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:47:27"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:47:36"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:47:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:33"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:33"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:33"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:38"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:38"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:38"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:48:42"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:48:42"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:48:42"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:48:50"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:48:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:49:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:49:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:49:19"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:49:21"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:49:21"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:50:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:50:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:50:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:50:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:50:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:50:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:50:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:50:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:50:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:50:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:50:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:50:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:50:51"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:50:51"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:50:57"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:50:57"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:52:33"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:52:34"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:52:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:52:37"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:52:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:53:07"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 16:53:07"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:53:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:53:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:53:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:53:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:53:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:53:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:53:32"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:53:32"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:53:32"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 16:53:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 16:53:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 16:53:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 16:53:45"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 16:53:45"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:02:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:02:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:02:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:02:05"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:02:05"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:02:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:02:06"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:02:06"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:03:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:03:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:03:31"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:03:34"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:03:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:04:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:04:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:04:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:04:35"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:04:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:05:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:05:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:05:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:05:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:05:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:05:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:06:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:06:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:06:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:06:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:06:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:06:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:06:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:06:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:06:26"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:06:46"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:06:46"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:06:46"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:06:48"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:06:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:07:30"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:07:30"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:07:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:07:30"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:07:30"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:08:28"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:08:28"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:08:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:08:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:08:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:08:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:08:37"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:08:37"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:08:39"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:08:39"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:08:39"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:08:39"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:09:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:09:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:09:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:10:51"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:10:51"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:10:51"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:11:25"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:11:25"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:11:26"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:11:32"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:11:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:11:34"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:11:34"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:12:39"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:12:39"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:12:39"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:12:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:12:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:12:44"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:12:44"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:12:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:13:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:13:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:13:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:13:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:13:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:13:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:13:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:13:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:13:44"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:13:45"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:13:45"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:14:14"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:14:14"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:14:14"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:14:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:14:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:14:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:14:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:14:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:14:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:14:25"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:14:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:14:44"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:14:44"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:14:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:15:45"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:15:45"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:15:45"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:15:49"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:15:49"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:16:23"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:16:23"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:16:23"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:16:24"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:16:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:16:41"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:16:41"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:16:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:16:43"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:16:43"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:17:46"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:18:08"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:18:08"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:18:08"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:18:08"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:18:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:18:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:18:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:19:20"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:19:20"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:19:20"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:19:26"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:19:26"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:19:26"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:19:27"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:19:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:19:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:19:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:19:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:20:43"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:20:43"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:20:43"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:21:41"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:21:41"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:21:41"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:21:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:21:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:21:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:21:52"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:21:52"}
+{"level":"error","message":"Error processing message: Document validation failed: content: Path `content` is required.","timestamp":"2024-02-09 17:21:52"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:22:46"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:22:46"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:22:46"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:22:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:22:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:22:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:23:29"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:23:29"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:23:29"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:23:42"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:23:42"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:23:51"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:23:51"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:23:51"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:23:51"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:24:11"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:24:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:24:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:24:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:24:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:24:42"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:24:42"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:24:42"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:24:50"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:24:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:26:01"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:26:01"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:26:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:26:04"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:26:04"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:26:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:28:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:28:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:28:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:29:17"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:29:17"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:29:17"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:29:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:29:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:29:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:31:37"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:31:37"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:31:37"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:31:47"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:31:47"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:31:47"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:36:14"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:36:14"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:36:14"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:36:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:36:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:36:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:36:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:36:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:36:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:36:53"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:36:53"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:37:41"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:37:41"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:37:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:37:43"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:37:43"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:37:56"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:37:56"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:38:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:38:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:38:02"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:38:02"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:41:10"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:41:10"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:41:10"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:41:30"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:41:30"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:44:38"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:38"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:38"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:44:38"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:39"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:39"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:40"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:41"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:47"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:47"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:44:47"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:47"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:48"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:44:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:48"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:48"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:44:55"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:44:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:44:55"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:44:55"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:45:03"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:03"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:03"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:45:03"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:45:35"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:45:37"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:45:41"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:45:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:45:41"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:45:41"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:10"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:16"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:17"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:19"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:19"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:19"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:19"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:46:29"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:46:29"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:46:29"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:46:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:47:02"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:47:02"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:47:02"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:47:10"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:47:10"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:47:10"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:47:17"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:47:17"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:47:17"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:47:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:47:18"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:47:48"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:08"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:08"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:48:08"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:08"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:09"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:48:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:09"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:21"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:24"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:28"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:48:30"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:48:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:48:30"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:48:30"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:49:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:49:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:49:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:50:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:50:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:50:23"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:50:23"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:50:23"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:50:23"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:50:24"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:50:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:50:24"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:50:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:50:26"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:50:26"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:57:19"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:57:19"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:57:19"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:57:23"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:57:23"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:57:25"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:57:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:57:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:57:52"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:57:54"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 17:57:54"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:58:01"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:58:01"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 17:58:06"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 17:58:06"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 17:58:06"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 17:58:06"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:58:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:58:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:58:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 17:59:31"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 17:59:31"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 17:59:31"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:00:17"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:00:17"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:00:17"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:00:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:00:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:00:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:00:21"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:00:21"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:00:21"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:00:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:00:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:00:27"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:00:27"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:00:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:01:16"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:01:16"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:01:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:01:23"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:01:23"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:01:23"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:01:28"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:01:28"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:01:54"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:01:54"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:01:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:02:03"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:02:03"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:02:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:02:07"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:02:07"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:02:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:02:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:02:11"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:02:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:02:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:02:35"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:02:35"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:02:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:03:10"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:03:10"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:03:10"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:03:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:03:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:03:40"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:03:43"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:03:43"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:03:43"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:03:45"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:03:45"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:03:50"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:03:50"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:03:50"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:03:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:05:14"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:05:14"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:05:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:06:08"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:06:08"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:06:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:06:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:06:16"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:06:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:08:15"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:08:15"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:08:15"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:08:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:08:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:08:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:08:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:08:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:08:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:08:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:08:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:08:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:08:38"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:08:38"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:10:11"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:10:11"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:10:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:10:36"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:10:36"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:10:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:10:42"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:10:42"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:10:44"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:10:44"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:10:44"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:10:44"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:11:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:11:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:11:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:11:30"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:11:30"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:11:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:11:32"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:11:32"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 18:11:35"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:11:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:11:35"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:11:35"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:11:45"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:11:45"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:11:45"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:11:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:11:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:11:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:11:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:11:53"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:11:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:11:54"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:11:54"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:15:35"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:15:35"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:15:35"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:15:36"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:15:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:16:30"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:16:30"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:16:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:16:34"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:16:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:17:01"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:17:01"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 18:17:08"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:17:08"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:17:08"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:17:08"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 18:17:36"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:17:36"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:17:36"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:17:36"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:17:57"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:17:57"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:17:57"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:18:01"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:18:01"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:18:04"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:18:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:19:59"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:19:59"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:19:59"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:20:00"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:20:00"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:20:00"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:20:05"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:20:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:20:15"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:20:15"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:20:32"}
+{"level":"info","message":"Client connected. Total active clients: 3","timestamp":"2024-02-09 18:20:32"}
+{"level":"info","message":"Client disconnected. Total active clients: 2","timestamp":"2024-02-09 18:20:49"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:20:49"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 18:21:00"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:21:00"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:21:00"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:21:00"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:21:43"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:21:43"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:21:43"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:22:05"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:22:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:22:07"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:22:07"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 18:22:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:22:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:22:13"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:22:13"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 18:22:16"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 18:22:16"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:22:16"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:22:16"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:24:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:24:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:24:52"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:24:56"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:24:56"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:24:56"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:25:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:25:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:25:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:25:57"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:25:57"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:26:49"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:26:49"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:26:49"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:28:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:28:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:28:55"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:30:18"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:30:18"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:30:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:30:19"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:30:19"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:30:32"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:30:32"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:30:32"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:30:40"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:30:40"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:30:40"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:30:42"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:30:42"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:31:29"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:31:29"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:31:29"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:35:27"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:35:27"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:35:27"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:35:33"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:35:33"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:35:33"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:35:42"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:35:42"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:35:42"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:35:43"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 18:35:43"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 18:36:04"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 18:36:04"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 18:38:48"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 18:38:48"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 18:38:48"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:34:50"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:34:50"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:34:50"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:34:57"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:34:57"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:34:57"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:06"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:35:06"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:13"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:13"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:18"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:18"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:18"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:19"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:19"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:19"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:19"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:27"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:27"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:27"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:27"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:41"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:41"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:41"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:41"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:45"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:45"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:45"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:45"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:53"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:35:59"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:35:59"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:35:59"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:35:59"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:36:01"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:36:01"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:36:01"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:36:01"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:36:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:36:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:36:02"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:36:02"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:36:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:36:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:36:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:36:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:36:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:36:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:36:14"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:36:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:36:18"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:36:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:36:18"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:36:18"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:37:48"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:37:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:37:48"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:37:48"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:37:53"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:37:53"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:37:53"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:37:53"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:38:01"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:38:01"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:38:01"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:38:01"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:38:52"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:38:52"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:38:52"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:38:56"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:38:56"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:02"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:02"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:06"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:06"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:06"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:06"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:15"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:15"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:15"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:15"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:23"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:23"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:23"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:23"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:25"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:25"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:25"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:25"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:30"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:30"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:30"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:30"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:32"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:32"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:32"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:32"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:37"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:37"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:37"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:37"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:39"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:39"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:39"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:39"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:47"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:47"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:47"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:47"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:39:58"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:39:58"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:39:58"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:39:58"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:41:07"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:41:07"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:41:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:14"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:41:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:26"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:26"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:28"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:28"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:28"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:28"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:34"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:34"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:34"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:34"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:40"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:40"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:40"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:40"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:46"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:46"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:46"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:46"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:52"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:52"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:52"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:52"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:41:57"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:41:57"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:41:57"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:41:57"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:42:05"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:42:05"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:42:05"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:42:05"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:42:08"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:42:08"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:42:08"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:42:08"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:42:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:42:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:42:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:42:12"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:44:12"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:44:12"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:44:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:44:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:44:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:44:28"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:44:28"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:45:59"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:45:59"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:45:59"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:00"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:00"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:07"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:07"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:07"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:12"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:14"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:14"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:14"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:14"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:18"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:18"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:18"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:20"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:23"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:23"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:23"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:23"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:24"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:46:55"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:46:55"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:46:55"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:46:56"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:46:56"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:47:02"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:47:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:47:02"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:47:02"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:47:04"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:47:04"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:47:04"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:47:04"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:47:05"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:47:05"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:47:12"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:47:12"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:47:12"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:47:12"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:47:13"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:47:13"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:47:13"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:47:13"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:48:02"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:48:02"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:48:02"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:48:06"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:48:06"}
+{"level":"info","message":"Client disconnected. Total active clients: 0","timestamp":"2024-02-09 19:48:11"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:48:11"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:48:11"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:48:11"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:51:49"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:51:49"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:51:49"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:52:53"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:52:53"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:52:54"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:52:59"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:52:59"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:53:09"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:53:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:53:18"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:53:18"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:53:18"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:53:18"}
+{"level":"info","message":"WebSocket server has been initialized.","timestamp":"2024-02-09 19:57:24"}
+{"level":"info","message":"server is running on port 3000","timestamp":"2024-02-09 19:57:24"}
+{"info":"Database Connection is established successfully","level":"info","message":"MongoDB Connected","timestamp":"2024-02-09 19:57:24"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:57:48"}
+{"level":"info","message":"Client connected. Total active clients: 1","timestamp":"2024-02-09 19:57:48"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:58:06"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:58:06"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:58:09"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:58:09"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:58:09"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:58:09"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 19:58:10"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 19:58:10"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 19:58:10"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 19:58:10"}
+{"level":"info","message":"Client disconnected. Total active clients: 1","timestamp":"2024-02-09 20:08:07"}
+{"level":"info","message":"Client has disconnected.","timestamp":"2024-02-09 20:08:07"}
+{"level":"info","message":"A new client connected.","timestamp":"2024-02-09 20:08:07"}
+{"level":"info","message":"Client connected. Total active clients: 2","timestamp":"2024-02-09 20:08:07"}

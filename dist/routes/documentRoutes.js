@@ -22,15 +22,15 @@ var __importStar = (this && this.__importStar) || function (mod) {
     __setModuleDefault(result, mod);
     return result;
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
-const mongoose_1 = __importStar(require("mongoose"));
-const ChatSchema = new mongoose_1.Schema({
-    message: { type: String, required: true },
-    sender: { type: mongoose_1.default.Schema.Types.ObjectId, required: true },
-    receiver: {
-        type: mongoose_1.default.Schema.Types.ObjectId,
-        required: true,
-    },
-    timestamp: { type: Date, default: Date.now },
-});
-exports.default = mongoose_1.default.model("Chat", ChatSchema);
+const express_1 = __importDefault(require("express"));
+const DocumentController = __importStar(require("../controllers/documentController"));
+const router = express_1.default.Router();
+router.post('/', DocumentController.createDocument);
+router.get('/:id', DocumentController.getDocumentById);
+router.put('/:id', DocumentController.updateDocument);
+router.delete('/:id', DocumentController.deleteDocument);
+exports.default = router;
